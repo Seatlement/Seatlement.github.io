@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Settlement<title>
+    <meta charset="UTF-8">
+    <meta name="keywords" content=differentfiles">
+    <meta name=videosrc" content="USA_language">
+    <link rel="shortcut icon" href="http://tm-trainings.ru/wp/wp-content/uploads/2014/01/NO.gif">
